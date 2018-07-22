@@ -13,7 +13,7 @@ rtc->parseTime(&tmRTC, "2018-07-22T15:25:00Z1");
 rtc->setTime(&tmRTC);
 ```
 
-where 2018-07-22T15:25:00Z1 mean "22 July 2018, 15:25:00, Sunday"
+where *2018-07-22T15:25:00Z1* mean *"22 July 2018, 15:25:00, Sunday"*
 
 ## Compile
 ```
